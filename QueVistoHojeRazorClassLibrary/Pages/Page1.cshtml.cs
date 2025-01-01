@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace QueVistoHojeRazorClassLibrary.MyFeature.Pages
+namespace QueVistoHojeRCL.Pages
 {
     public class Page1Model : PageModel
     {
